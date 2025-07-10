@@ -2,6 +2,46 @@
     {
         "name": "Space Waves",
         "slug": "space-waves",
-        "image": "/cache/data/image/game/space-waves/spacewavesgame-m186x186.webp"
+        "image": "/cache/data/image/game/space-waves/space-waves-game-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash",
+        "slug": "geometry-dash",
+        "image": "/cache/data/image/game/geometry-dash/geometry-dash-m186x186.webp"
+    },
+    {
+        "name": "Wave Dash",
+        "slug": "wave-dash",
+        "image": "/cache/data/image/game/wave-dash/wave-dash-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Sonic Wave",
+        "slug": "geometry-dash-sonic-wave",
+        "image": "/cache/data/image/game/geometry-dash-sonic-wave/geometry-dash-sonic-wave-m186x186.webp"
+    },
+    {
+        "name": "Geometry Wave Challenge",
+        "slug": "geometry-wave-challenge",
+        "image": "/cache/data/image/game/geometry-wave-challenge/geometry-wave-challenge-game-m186x186.webp"
+    },
+    {
+        "name": "Wave",
+        "slug": "wave",
+        "image": "/cache/data/image/game/wave/wave-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash: Impossible Wave",
+        "slug": "geometry-dash-impossible-wave",
+        "image": "/cache/data/image/game/geometry-dash-impossible-wave/geometry-dash-impossible-wave-m186x186.webp"
+    },
+    {
+        "name": "3Dash",
+        "slug": "3dash",
+        "image": "/cache/data/image/game/3dash/3dash-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash: Black Line",
+        "slug": "geometry-dash-black-line",
+        "image": "/cache/data/image/game/geometry-dash-black-line/geometry-dash-black-line-m186x186.webp"
     }
 ]
